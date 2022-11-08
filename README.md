@@ -1,5 +1,6 @@
 # JDK源码阅读笔记
 
+
 > **Read The Fucking Source Code**　　---- [RTFM](https://en.wikipedia.org/wiki/RTFM)
 >     
 > **源码面前，了无秘密**　　---- [侯捷](https://zh.wikipedia.org/wiki/%E4%BE%AF%E4%BF%8A%E5%82%91_%28%E4%BD%9C%E5%AE%B6%29)
